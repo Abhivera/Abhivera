@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit Verma..  </h1>
 <h3 align="center">A passionate Full Stack developer and Life Long Learner !</h3>
 <p>I have been learning MERN stack development for the last 6 months in the boot camp. I have more passion for front-end development.</p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhivera&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijt" /> </p>
 
@@ -12,15 +12,15 @@
 
 - 💬 Ask me about *JavaScript,MERN Stack*
 
-- 📫 How to reach me *bishalsharmaece@gmail.com*
+- 📫 How to reach me *abhijitakadeveloper@gmail.com*
 
-  - 💬  Portfolio https://bishal00sharma.github.io/
+  - 💬  Portfolio https://myportfolio-sigma-two.vercel.app
 
  ⚡ Fun fact- I think I understand my own written code 😝
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhijit-verma-532996165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijitverma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bishalsharmaece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishal__sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Abhivera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishal__sharma" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -41,6 +41,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal00sharma&show_icons=true&locale=en&layout=compact" alt="bishal00sharma" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=bishal00sharma&theme=radical&show_icons=true&hide_border=false&count_private=true" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishal00sharma&" alt="bishal00sharma" /></p>
