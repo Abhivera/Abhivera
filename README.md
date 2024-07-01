@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhijit-verma-532996165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijitverma" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Abhivera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishal__sharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AbhijitVerma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijitverma" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
