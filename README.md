@@ -1,4 +1,4 @@
-<img src="https://www.sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png" />
+
 <h1 align="center">Hi 👋, I'm Abhijit Verma ... </h1>
 <h3 align="center">A passionate Full Stack developer and Life Long Learner !</h3>
 <p></p>
