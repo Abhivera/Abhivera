@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently exploring *AI*
+- 🌱 I’m currently exploring *AI* and *LLM*
 
 - 💬 Ask me about *JavaScript,MERN Stack*
 
@@ -16,7 +16,6 @@
 
   - 💬  Portfolio https://myportfolio-sigma-two.vercel.app
 
- ⚡ Fun fact- I think I understand my own written code 😝
 <h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhijit-verma-532996165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijitverma" height="30" width="40" /></a>
