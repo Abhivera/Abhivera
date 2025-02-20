@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Abhijit Verma ... </h1>
 <h3 align="center">A passionate Software Engineer and Life Long Learner !</h3>
 <p></p>
+<p>
+  <em>
+    A Passionate <b>Programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="https://hithaldia.ac.in/"> <b><span>Haldia Institute Of Technology</span></b></a>, who believes in solving the 
+      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer,
+    <b>Improving Skills</b> and 
+    <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
+  </em>  
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhivera&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijt" /> </p>
