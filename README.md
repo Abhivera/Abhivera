@@ -4,7 +4,7 @@
 
 ### **Hello world!** &nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="29px">
 
-<p> <em> A passionate <b>programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and <b>code enthusiast</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, I completed my <b>B.Tech in Computer Science</b> from <a href="https://hithaldia.ac.in/"><b><span>AKTU</span></b></a>. I believe in solving <b>real-world problems</b> using <b>programming</b> and <b>software development</b>. Currently working as a software engineer, I am focused on <b>improving my skills</b> and <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession. </em> </p>
+<p> <em> A passionate <b>programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and <b>code enthusiast</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, I have done <b>B.Tech in Computer Science</b> I believe in solving <b>real-world problems</b> using <b>programming</b> and <b>software development</b>. Currently working as a software engineer, I am focused on <b>improving my skills</b> and <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession. </em> </p>
 
 <br>
 
