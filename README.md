@@ -1,15 +1,12 @@
+# Abhijit Verma &nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
-<h1 align="center">Hi 👋, I'm Abhijit Verma ... </h1>
-<h3 align="center">A passionate Software Engineer and Life Long Learner !</h3>
-<p></p>
-<p>
-  <em>
-    A Passionate <b>Programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and a <b>code Enthusiast </b>&nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, Graduated from <a href="https://hithaldia.ac.in/"> <b><span>Haldia Institute Of Technology</span></b></a>, who believes in solving the 
-      <b>Real World Problems</b> using <b>Programming</b> and <b>Software</b>. Currently working as Software Engineer,
-    <b>Improving Skills</b> and 
-    <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession
-  </em>  
-</p>
+<img align="right" alt="PC GIF" src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/PC.gif" width="190" />
+
+### **Hello world!** &nbsp;<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="29px">
+
+<p> <em> A passionate <b>programmer</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Developer.gif" width="30px"> and <b>code enthusiast</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Designer.gif" width="36px">, I completed my <b>B.Tech in Computer Science</b> from <a href="https://hithaldia.ac.in/"><b><span>AKTU</span></b></a>. I believe in solving <b>real-world problems</b> using <b>programming</b> and <b>software development</b>. Currently working as a software engineer, I am focused on <b>improving my skills</b> and <b>excelling</b> <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Medal.gif" width="20px"> in the profession. </em> </p>
+
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhivera&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijt" /> </p>
