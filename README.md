@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring *AI* and *LLM*
 
-- 💬 Ask me about *JavaScript,MERN Stack*
+- 💬 Ask me about *Software Development*
 
 - 📫 How to reach me *abhijitakadeveloper@gmail.com*
 
@@ -75,9 +75,10 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+</a>
+
 </p>
 
 
