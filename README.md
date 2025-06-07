@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently exploring *AI* and *LLM*
+- 🌱 I’m currently working on my own project, [Dietly.org](https://dietly.org/) — feel free to contribute if you’d like! I'm also exploring *AI* and *LLMs*.
 
 - 💬 Ask me about *Software Development*
 
 - 📫 How to reach me *abhijitakadeveloper@gmail.com*
 
-  - 💬  Portfolio https://myportfolio-sigma-two.vercel.app
+- 💬  Portfolio https://myportfolio-sigma-two.vercel.app
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
