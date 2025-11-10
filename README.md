@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhivera&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijt" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🌱 I’m currently working on my own project, [Dietly.org](https://dietly.org/) — feel free to contribute if you’d like! I'm also exploring *AI* and *LLMs*.
 
