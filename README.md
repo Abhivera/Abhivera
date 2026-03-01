@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *abhijitakadeveloper@gmail.com*
 
-- 💬  Portfolio https://myportfolio-sigma-two.vercel.app
+- 💬  Portfolio under construction
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
