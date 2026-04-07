@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *abhijitakadeveloper@gmail.com*
 
-- 💬  Portfolio under construction
+- 💬  Portfolio is still under construction
 
 <h3 align="center">Connect with me :</h3>
 <p align="center">
