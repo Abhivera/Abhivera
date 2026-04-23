@@ -5,7 +5,7 @@
   <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/PC.gif" width="200"/>
 </p>
 
----
+
 
 ###  Hello World! <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="25px">
 
@@ -18,13 +18,13 @@
   </em>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhivera&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
+
 
 ### 🚀 About Me
 
@@ -34,7 +34,7 @@
 - 📫 Reach me at **abhijitakadeveloper@gmail.com**
 - ⚡ Portfolio: *Under Construction*
 
----
+
 
 ### 🌐 Connect With Me
 
@@ -44,7 +44,7 @@
   </a>
 </p>
 
----
+
 
 ### 💻 Tech Stack
 
