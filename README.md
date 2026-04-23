@@ -7,7 +7,7 @@
 
 ---
 
-### 👋 Hello World!
+### <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="25px"> Hello World!
 <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="25px">
 
 <p align="center">
