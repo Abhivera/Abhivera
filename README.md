@@ -42,11 +42,13 @@
   <a href="https://www.linkedin.com/in/abhijit-verma-532996165/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  
+
+  &nbsp;&nbsp;
+
   <a href="mailto:abhijitakadeveloper@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="30" width="40"/>
   </a>
-  </p>
+</p>
 
 ---
 ### 💻 Tech Stack
