@@ -43,11 +43,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 
-  &nbsp;&nbsp;
 
-  <a href="mailto:abhijitakadeveloper@gmail.com">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" height="30" width="40"/>
-  </a>
 </p>
 
 ---
