@@ -1,5 +1,5 @@
-# Abhijit Verma 
-<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+# <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Mario_Hello_Big.gif" width="30px">  Abhijit Verma 
+
 
 <p align="center">
   <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/PC.gif" width="200"/>
@@ -8,7 +8,7 @@
 ---
 
 ### <img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="25px"> Hello World!
-<img src="https://github.com/shashirajraja/shashirajraja/blob/main/Assets/Hi.gif" width="25px">
+
 
 <p align="center">
   <em>
