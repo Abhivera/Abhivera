@@ -29,13 +29,13 @@
 ### 🚀 About Me
 
 - 🌱 Working on **Dietly.org** (open to contributions)
-- 🤖 Exploring **AI & LLMs**
+- 🤖 Exploring **AI Agents & LLMs**
 - 💬 Ask me about **Software Development**
 - 📫 Reach me at **abhijitakadeveloper@gmail.com**
 - ⚡ Portfolio: *Under Construction*
 
 
-
+---
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 
-
+---
 ### 💻 Tech Stack
 
 <p align="center">
