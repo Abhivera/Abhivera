@@ -62,8 +62,6 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/>
  
 </p>
