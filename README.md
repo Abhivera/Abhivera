@@ -27,10 +27,8 @@
 
 
 ### 🚀 About Me
-
-- 🌱 Working on **Dietly.org** (open to contributions)
-- 🤖 Exploring **AI Agents & LLMs**
-- 💬 Ask me about **Software Development**
+- 🤖 Exploring **LLMs**
+- 💬 Ask me about **Software Development with Agents**
 - 📫 Reach me at abhijitakadeveloper@gmail.com
 - ⚡ Portfolio: *under construction*
 
