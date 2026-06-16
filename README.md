@@ -30,7 +30,7 @@
 - 🤖 Exploring **LLMs** and **AI Agents**
 - 💬 Ask me about **Software Development**
 - 📫 Reach me at abhijitakadeveloper@gmail.com
-- ⚡ Portfolio: [under construction]
+- ⚡ Portfolio: abhijit-verma.com[abhijit-verma.com]
 
 
 ---
