@@ -11,13 +11,9 @@
 
 
 <p align="center">
-  <em>
-    A passionate <b>Programmer</b> 👨‍💻 and <b>Code Enthusiast</b> 🚀 <br/>
-    Computer Science Engineer focused on solving <b>real-world problems</b> using software. <br/>
-    Currently working as a <b>Software Engineer</b>, continuously improving skills and growing professionally 🏆
-  </em>
+  Software Engineer passionate about building impactful applications and solving real-world challenges.<br/>
+  Driven by continuous learning, clean code, and creating meaningful user experiences.
 </p>
-
 
 
 <p align="center">
